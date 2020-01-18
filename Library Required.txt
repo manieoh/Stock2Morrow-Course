@@ -1,0 +1,12 @@
+pip install pprint
+pip install newsapi
+pip install textblob
+pip install feedparser
+pip install git+https://github.com/palmbook/DeeperTradeLibrary.git
+pip install git+https://github.com/palmbook/yfinance.git
+pip install sklearn
+pip install pandas-datareader
+pip install xgboost
+pip install catboost
+pip install lightgbm
+
