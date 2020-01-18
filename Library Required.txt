@@ -1,3 +1,5 @@
+#หากต้องการอัพเดท ให้เติม --upgrade ไปด้านหลัง เช่น pip install pprint --upgrade
+
 pip install pprint
 pip install newsapi
 pip install textblob
