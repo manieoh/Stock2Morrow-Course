@@ -6,7 +6,7 @@ pip install textblob
 pip install feedparser
 pip install git+https://github.com/palmbook/DeeperTradeLibrary.git
 pip install git+https://github.com/palmbook/yfinance.git
-pip install sklearn
+pip install scikit-learn
 pip install pandas-datareader
 pip install xgboost
 pip install catboost
